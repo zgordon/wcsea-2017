@@ -18,5 +18,4 @@ In this workshop we learn how to work basic JavaScript and the WordPress REST AP
 ## 3. JavaScript in WordPress
 - 3.1-enqueuing-js-theme
 - 3.2-jquery-example
-- 3.3-backbone-api-client
 - completed files
